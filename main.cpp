@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby eats
+baby.eat();
+//  action 3: the baby sleeps
+baby.sleep()
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat purrs
+cat.purr();
+//  action 3: the cat sleeps
+cat.sleep();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bird
+//  action 1: the bird sings
+bird.sing();
+//  action 2: the bird flies
+bird.fly();
+//  action 3: the bird eats worms
+bird.eatWorm();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: software
+//  action 1: the software crashes
+software.crash();
+//  action 2: the software runs
+software.run();
+//  action 3: the software initiates an update
+software.initiateUpdate();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: robot
+//  action 1: the robot walks;
+robot.walk();
+//  action 2: the robot hugs;
+robot.hug();
+//  action 3: the robot reads a book;
+robot.readBook();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: fingers
+//  action 1: the fingers bend
+fingers.bend();
+//  action 2: the fingers play the keys
+fingers.playKeys();
+//  action 3: the fingers turn on the light switch
+fingers.turnOnLightSwitch();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: person
+//  action 1: the person sits
+person.sit();
+//  action 2: the person watches tv
+person.watchTv();
+//  action 3: the person falls asleep
+person.fallAsleep();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bufferfly
+//  action 1: the butterfly flies
+butterfly.fly();
+//  action 2: the butterfly polinates
+butterfly.polinate();
+//  action 3: the butterfly hides
+butterfly.hide();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1: the car moves
+car.move();
+//  action 2: the car consumes fuel
+car.consumeFuel();
+//  action 3: the car stops
+car.stop();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: child
+//  action 1: the child drinks water
+child.drinkWater();
+//  action 2: the child rides a bike
+child.rideBike();
+//  action 3: the child eats dinner
+child.eatDinner();
 
 
 #endif
