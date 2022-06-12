@@ -58,7 +58,7 @@ baby.cry();
 //  action 2: the baby eats
 baby.eat();
 //  action 3: the baby sleeps
-baby.sleep()
+baby.sleep();
 //  2)
 //  Noun: cat
 //  action 1: the cat meows
