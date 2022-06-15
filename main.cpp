@@ -116,13 +116,13 @@ butterfly.polinate();
 //  action 3: the butterfly hides
 butterfly.hide();
 //  9)
-//  Noun: car
-//  action 1: the car moves
-car.move();
-//  action 2: the car consumes fuel
-car.consumeFuel();
-//  action 3: the car stops
-car.stop();
+//  Noun: Shoppping cart
+//  action 1: the shopping cart rolls down the hill
+shoppingCart.rollDownTheHill();
+//  action 2: the shopping cart hold groceries
+shoppingCart.holdGroceries();
+//  action 3: the shopping cart stops moving
+shoppingCart.stopMoving();
 //  10)
 //  Noun: child
 //  action 1: the child drinks water
